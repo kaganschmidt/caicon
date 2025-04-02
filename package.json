@@ -1,0 +1,20 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "data science portfolio",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
