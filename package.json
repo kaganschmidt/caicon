@@ -2,7 +2,7 @@
   "name": "newproject",
   "version": "1.0.0",
   "description": "data science portfolio",
-  "source": "index.html",
+  "source": "./dist/resources/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel --open",
